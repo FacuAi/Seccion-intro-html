@@ -1,0 +1,29 @@
+div{
+    border: 1px solid black;
+    width: 500px;
+}
+
+
+.medio {
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid #000000;
+}
+
+.fuera
+ {
+    width: 500px;
+    background-color: orange;
+    border: 2px solid #000000;
+}
+.dentro{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    border: 2px solid #000000;
+
+
+}
